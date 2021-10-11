@@ -12,3 +12,4 @@ steps = 3
 lis1 = org[steps+1:]
 lis2 = org[0:steps+1]
 print(lis1+lis2)
+
